@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Global Express Logistics",
+      "hasCanvas": false,
+      "bodyTextLen": 3853,
+      "bodyTextHash": "f0f30c12a73453894da2cbca9e10cee9a873d50bc2094eb954ea89598cad4eff",
+      "bodyTextPrefix": "Skip to content GLOBAL EXPRESS LOGISTICS Services Network Quote ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Global Express Logistics",
+      "hasCanvas": false,
+      "bodyTextLen": 3779,
+      "bodyTextHash": "1258e3d16c6e80a56404f58499d2dedc5bfcecf6dd04a75139bcdabc44409559",
+      "bodyTextPrefix": "Skip to content EN SL LJUBLJANA HUB · PORT OF KOPER · WORLDWIDE ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
